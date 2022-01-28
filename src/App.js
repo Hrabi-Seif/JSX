@@ -5,7 +5,10 @@ function App() {
   return (
     <div className="App">
       <div id="maria" style={{ maxWidth: "100vw" }}>
-        <h1 className="title">Tennis player</h1>
+        <h1 className="title">
+          Tennis player " Tennis is just like everything else work on it nd you
+          will improve"
+        </h1>
         <div id="back">
           <img src="maria.png" alt="maria"></img>
           <br />
